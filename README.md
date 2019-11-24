@@ -1,4 +1,4 @@
-# FirstAWSLambdaMicronaut
+# First AWS Lambda with Micronaut
 My first AWS lambda with Kotlin and Micronaut
 
 ## Dependencies
