@@ -4,7 +4,7 @@ My first AWS lambda with Kotlin and Micronaut
 ## Dependencies
  - [Kotlin](https://kotlinlang.org/) Language
  - [Gradlew Shadow Plugin](https://github.com/johnrengelman/shadow) to collapse all dependencies and project code into a single Jar file
- - [micronaut](https://micronaut.io/)
+ - [Micronaut](https://micronaut.io/)
  - [Spek](https://www.spekframework.org/) for testing
 
 ## Description
