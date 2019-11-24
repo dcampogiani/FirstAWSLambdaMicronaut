@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: com.danielecampogiani
+---
+testFramework: spek
+sourceLanguage: kotlin
